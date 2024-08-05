@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    background-color: rgb(4, 2, 43);
+}
+ span{
+    color: rgb(15, 121, 15);
+}
+.name {
+    background-color: rgb(5, 132, 5);
+}
+.white {
+    color: white;
+}
